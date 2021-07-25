@@ -1,0 +1,8 @@
+/results/
+/phpunit*.xml
+/.phpunit.*.cache
+\vendor
+\.idea
+
+
+/vendor/
