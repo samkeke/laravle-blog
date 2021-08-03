@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "172f48787552af5cf811011d5752bb29",
+    "content-hash": "68b811983f93965c7ad9db65e758ea76",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2132,16 +2132,16 @@
         },
         {
             "name": "samkeke/wxspider",
-            "version": "2.0",
+            "version": "3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/samkeke/WxSpider.git",
-                "reference": "2708fc95d95efd15b9f7b6f74adb529ee0f35de5"
+                "reference": "8c5009929901e582265cd86d8163a33e777b5533"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/samkeke/WxSpider/zipball/2708fc95d95efd15b9f7b6f74adb529ee0f35de5",
-                "reference": "2708fc95d95efd15b9f7b6f74adb529ee0f35de5",
+                "url": "https://api.github.com/repos/samkeke/WxSpider/zipball/8c5009929901e582265cd86d8163a33e777b5533",
+                "reference": "8c5009929901e582265cd86d8163a33e777b5533",
                 "shasum": ""
             },
             "require": {
@@ -2171,9 +2171,9 @@
             "description": "微信文章爬虫，扫码登录微信开启爬虫脚本",
             "support": {
                 "issues": "https://github.com/samkeke/WxSpider/issues",
-                "source": "https://github.com/samkeke/WxSpider/tree/2.0"
+                "source": "https://github.com/samkeke/WxSpider/tree/3.0"
             },
-            "time": "2021-07-24T08:26:27+00:00"
+            "time": "2021-07-28T14:19:48+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
